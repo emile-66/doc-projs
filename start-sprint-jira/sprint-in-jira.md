@@ -14,7 +14,7 @@ Before creating a sprint in Jira, ensure you have the following:
 
 ## Step 1: Create a sprint
 
-1. Within your Scrum project, navigate to the **Backlog** project tab.
+1. Within your Scrum project, navigate to the **Backlog** tab.
 
 2. Click **Create sprint**.
 
@@ -43,16 +43,15 @@ If you there are issues in the backlog you want to add to the sprint, click and 
 3. Name your issue. Press enter to add this issue to the sprint.
 
 4. To learn more about how to edit and configure issues, including adding subtasks, see [Create an issue and subtask](https://support.atlassian.com/jira-software-cloud/docs/create-an-issue-and-a-sub-task/).
-    **Note that you can only create subtasks if your adminstrator has enabled this feature.**
 
 5. You can organize your stories to be under [epics](https://www.atlassian.com/agile/tutorials/epics), which may span multiple sprints. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
 
 ## Step 3: Start sprint
 
 1. Click **Start sprint**.
-2. In the pop-up window, specify the details related to the sprint:
+2. In the pop-up window, specify the following details:
     - The name of the sprint.
-    - The duration and the start and end date. 
+    - The duration or the start and end dates. 
 
     ![specify details of sprint](sprint-details.png)
 
