@@ -26,7 +26,7 @@ Once you've created a sprint, you can fill your sprint with issues (also known a
 
 ### Add existing issues to the sprint
 
-If you there are issues in the backlog you want to add to the sprint, click and drag the issue from the backlog to be under the desired sprint.
+If there are issues in the backlog you want to add to the sprint, click and drag the issue from the backlog to be under the desired sprint.
 
 **Warning:** Avoid deleting issues as they cannot be recovered. Instead, mark them as Done.
 
@@ -44,7 +44,11 @@ If you there are issues in the backlog you want to add to the sprint, click and 
 
 4. To learn more about how to edit and configure issues, including adding subtasks, see [Create an issue and subtask](https://support.atlassian.com/jira-software-cloud/docs/create-an-issue-and-a-sub-task/).
 
-5. You can organize your stories to be under [epics](https://www.atlassian.com/agile/tutorials/epics), which may span multiple sprints. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
+### Organize issues under epics
+
+You can also organize your stories to be under epics. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
+
+To learn more about epics, see [Learn how to use epics in Jira](https://www.atlassian.com/agile/tutorials/epics).
 
 ## Step 3: Start sprint
 
