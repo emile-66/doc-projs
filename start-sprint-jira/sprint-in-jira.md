@@ -2,13 +2,14 @@
 
 A sprint in Jira is a period of time in which the development team implements and delivers a product increment by completing a set of issues. Sprints are planned on the Backlog screen, making it easy to keep track of progress, prioritization, and scope of each issue. 
 
-## Prerequisities
 
-Before creating a sprint in Jira, ensure you have completed the following:
+Before creating a sprint in Jira, ensure you have the following:
 
-- Created a Jira account.
+- A Jira account.
 
-- Created a [Jira Scrum project](https://support.atlassian.com/jira-software-cloud/docs/create-a-new-project/).
+- A [Jira Scrum project](https://support.atlassian.com/jira-software-cloud/docs/create-a-new-project/).
+
+- Permission to manage sprints within the project.
 
 ## Step 1: Create a sprint
 
@@ -26,7 +27,7 @@ Once you've created a sprint, you can fill your sprint with issues (also known a
 
 If you there are issues in the backlog you want to add to the sprint, click and drag the issue from the backlog to be under the desired sprint.
 
-**Note that it is not recommended to delete issues as they cannot be recovered. Instead, mark them as Done**.
+**Warning:** Avoid deleting issues as they cannot be recovered. Instead, mark them as Done.
 
 ### Add new issues to the sprint
 
@@ -43,17 +44,21 @@ If you there are issues in the backlog you want to add to the sprint, click and 
 4. To learn more about how to edit and configure issues, including adding subtasks, see [Create an issue and subtask](https://support.atlassian.com/jira-software-cloud/docs/create-an-issue-and-a-sub-task/).
     **Note that you can only create subtasks if your adminstrator has enabled this feature.**
 
-5. You can organize your stories to be under [epics](https://www.atlassian.com/agile/tutorials/epics), which may span multiple sprints.
+5. You can organize your stories to be under [epics](https://www.atlassian.com/agile/tutorials/epics), which may span multiple sprints. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
 
 ## Step 3: Start sprint
 
 1. Click **Start sprint**.
-2. In the pop-up window, specify the name of the sprint. You can also specify the duration or the start and end date. 
+2. In the pop-up window, specify the details related to the sprint:
+    - The name of the sprint.
+    - The duration and the start and end date. 
 
     ![specify details of sprint](sprint-details.png)
 
-**It is recommended to not edit the details of a spring after it has started.**
+**Warning:** Avoid editing the details of a sprint after starting as it can disrupt tracking and reporting.
 
 ## Conclusion
 
-Now you've learned how to create, fill, and start a sprint. This makes managing large projects in your teams much easier. 
+Now you've learned how to create, fill, and start a sprint. This allows you to efficiently manage large projects in your team.
+
+For more information on sprint management and best practices, see [Jira Cloud resources](https://support.atlassian.com/jira-software-cloud/resources/).
