@@ -2,6 +2,7 @@
 
 A sprint in Jira is a period of time in which the development team implements and delivers a product increment by completing a set of issues. Sprints are planned on the Backlog screen, making it easy to keep track of progress, prioritization, and scope of each issue. 
 
+## Prerequisites
 
 Before creating a sprint in Jira, ensure you have the following:
 
