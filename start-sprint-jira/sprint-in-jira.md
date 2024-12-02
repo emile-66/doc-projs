@@ -1,6 +1,6 @@
 # How to create and use a Sprint in Jira.
 
-A sprint — also known as an iteration — is a short period in which the development team implements and delivers a discrete and potentially shippable application increment, e.g. a working milestone version. In Jira, sprints are planned on the Backlog screen. 
+A sprint in Jira is a period of time in which the development team implements and delivers a product increment by completing a set of issues. Sprints are planned on the Backlog screen, making it easy to keep track of progress, prioritization, and scope of each issue. 
 
 ## Prerequisities
 
@@ -24,25 +24,26 @@ Once you've created a sprint, you can fill your sprint with issues (also known a
 
 ### Add existing issues to the sprint
 
-If you there are issues in the backlog you want to add to the sprint, click and drag the issue from the backlog to be under the sprint.
+If you there are issues in the backlog you want to add to the sprint, click and drag the issue from the backlog to be under the desired sprint.
+
+**Note that it is not recommended to delete issues as they cannot be recovered. Instead, mark them as Done**.
 
 ### Add new issues to the sprint
 
 1. Click **Create issue** under the sprint. 
 
-2. From the drop-down menu, specify if this issue is a story, task, or bug.
+    ![add issue](<add-issue.png>)
+
+2. From the drop-down menu, specify if this issue is a story, task, or bug. *A story is the most common type of issue and encompasses a single problem.*
 
     ![types of issues](issue-type.png)
 
-3. Name your issue.
+3. Name your issue. Press enter to add this issue to the sprint.
 
-4. Press enter to finish creating the issue.
+4. To learn more about how to edit and configure issues, including adding subtasks, see [Create an issue and subtask](https://support.atlassian.com/jira-software-cloud/docs/create-an-issue-and-a-sub-task/).
+    **Note that you can only create subtasks if your adminstrator has enabled this feature.**
 
-### Use epics to organize issues
-
-story - most common, encompasses a single problem
-organize by placing them in epic (on side)
-divide story by adding subtasks
+5. You can organize your stories to be under [epics](https://www.atlassian.com/agile/tutorials/epics), which may span multiple sprints.
 
 ## Step 3: Start sprint
 
@@ -51,17 +52,8 @@ divide story by adding subtasks
 
     ![specify details of sprint](sprint-details.png)
 
-*It is recommended to not edit the details of a spring after it has started.*
+**It is recommended to not edit the details of a spring after it has started.**
 
-## Step 4: Edit issues
+## Conclusion
 
-mark story as done or closed instead of delete
-cannot undo delete
-
-edit ticket
-on side bar: add description, comments, assignment, story points
-set ticket as complete, complete sprint
-remaining issues can be reorganized (backlog or to new sprint)
-
-from backlog, add new sprints if needd
-run one sprint at a time
+Now you've learned how to create, fill, and start a sprint. This makes managing large projects in your teams much easier. 
