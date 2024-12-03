@@ -2,6 +2,8 @@
 
 A sprint in Jira is a set period of time during which the development team works to deliver a product increment by completing assigned issues. Sprints are planned on the Backlog screen, making it easy to track progress, prioritize tasks, and manage the scope of the project and issues. 
 
+This guide will cover how to create, populate, and start a sprint in Jira.
+
 ## Prerequisites
 
 Before creating a sprint in Jira, ensure you have the following:
@@ -22,7 +24,7 @@ Before creating a sprint in Jira, ensure you have the following:
 
 ## Step 2: Populate sprint 
 
-Once you've created a sprint, you can add issues (also called tickets) to track the team's progress and to organize the workflow.
+Once you've created a sprint, you can add issues (also called tickets) to track the team's progress on the project and to organize the workflow.
 
 ### Add existing issues to the sprint
 
@@ -36,7 +38,7 @@ Once you've created a sprint, you can add issues (also called tickets) to track 
 
     ![creates issue](create-issue.png)
 
-2. From the drop-down menu, specify if this issue is a `Story`, `Task`, or `Bug`. *A story is the most common type of issue and encompasses a single problem.*
+2. From the drop-down menu, specify if this issue is a `Story`, `Task`, or `Bug`. Stories are most commonly used and they *encompass a single problem.*
 
     ![types of issues](issue-type.png)
 
@@ -44,7 +46,7 @@ Once you've created a sprint, you can add issues (also called tickets) to track 
 
 4. To learn more about how to edit and configure issues, including adding subtasks, see [Create an issue and subtask](https://support.atlassian.com/jira-software-cloud/docs/create-an-issue-and-a-sub-task/).
 
-### Organize issues under epics
+### Optional: Organize issues under epics
 
 You can also group stories and issues together using epics. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
 
@@ -52,7 +54,7 @@ To learn more about epics, see [Learn how to use epics in Jira](https://www.atla
 
 ## Step 3: Start sprint
 
-1. Find the sprint you want to start and click `Start sprint`.
+1. In the `Backlog` tab, find the sprint you want to start and click `Start sprint`.
 
     ![start sprit](start-sprint.png)
 
