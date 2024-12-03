@@ -26,9 +26,9 @@ Once you've created a sprint, you can add issues (also called tickets) to track 
 
 ### Add existing issues to the sprint
 
-1. In the `Backlog` tab, identify which issues to add to the sprint.
+1. In the `Backlog` tab, identify which issues should be added to the sprint.
 
-2. Click and drag the issue from the backlog to be under the desired sprint.
+2. Drag and drop the issue from the backlog to the desired sprint.
 
 ### Add new issues to the sprint
 
@@ -46,19 +46,20 @@ Once you've created a sprint, you can add issues (also called tickets) to track 
 
 ### Organize issues under epics
 
-You can also group stories together using epics. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
+You can also group stories and issues together using epics. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
 
 To learn more about epics, see [Learn how to use epics in Jira](https://www.atlassian.com/agile/tutorials/epics).
 
 ## Step 3: Start sprint
 
-1. In the desired sprint panel, click **Start sprint**.
+1. Find the sprint you want to start and click `Start sprint`.
 
     ![start sprit](start-sprint.png)
 
 2. In the pop-up window, specify the following details:
     - The name of the sprint.
     - The duration or the start and end dates. 
+    - Optionally, the sprint goal.
 
 **Warning: Avoid editing the details of a sprint after starting as it can disrupt tracking and reporting.**
 
