@@ -1,6 +1,6 @@
 # How to create and use a Sprint in Jira.
 
-A sprint in Jira is a set period of time during which the development team works to deliver a product increment by completing assigned issues. Sprints are planned on the Backlog screen, making it easy to track progress, prioritize tasks, and manage the scope of the project and issues. 
+A sprint in Jira is a set period of time during which the development team works to deliver a product increment by completing assigned issues. Sprints are planned on the Backlog tab, allowing your team to easily track progress, prioritize tasks, and manage the scope of the project. 
 
 This guide will cover how to create, populate, and start a sprint in Jira.
 
@@ -16,7 +16,7 @@ Before creating a sprint in Jira, ensure you have the following:
 
 ## Step 1: Create a sprint
 
-1. Within your Scrum project, navigate to the `Backlog` tab.
+1. Within your Scrum project, navigate to the Backlog tab.
 
 2. Click `Create sprint`.
 
@@ -38,7 +38,7 @@ Once you've created a sprint, you can add issues (also called tickets) to track 
 
     ![creates issue](create-issue.png)
 
-2. From the drop-down menu, specify if this issue is a `Story`, `Task`, or `Bug`. Stories are most commonly used and they *encompass a single problem.*
+2. From the drop-down menu, specify if this issue is a `Story`, `Task`, or `Bug`. *Stories are most commonly used and they encompass a single problem.*
 
     ![types of issues](issue-type.png)
 
@@ -48,7 +48,7 @@ Once you've created a sprint, you can add issues (also called tickets) to track 
 
 ### Optional: Organize issues under epics
 
-You can also group stories and issues together using epics. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
+You can group related stories and issues together using epics. *Epics allow you to better manage large initiatives that span across multiple sprints.*
 
 To learn more about epics, see [Learn how to use epics in Jira](https://www.atlassian.com/agile/tutorials/epics).
 
@@ -67,6 +67,6 @@ To learn more about epics, see [Learn how to use epics in Jira](https://www.atla
 
 ## Conclusion
 
-Now you've learned how to create, fill, and start a sprint in Jira. This enables you to efficiently manage large projects in your team.
+Now you've learned how to create, fill, and start a sprint in Jira.
 
 For more information on sprint management and best practices, see [Jira Cloud resources](https://support.atlassian.com/jira-software-cloud/resources/).
