@@ -48,7 +48,7 @@ Once you've created a sprint, you can add issues (also called tickets) to track 
 
 ### Optional: Organize issues under epics
 
-You can also group stories and issues together using epics. *Epics help to group related issues that represent a larger initiative, making it easier to organize projects.*
+You can group related stories and issues together using epics. *Epics allow you to better manage large initiatives that span across multiple sprints.*
 
 To learn more about epics, see [Learn how to use epics in Jira](https://www.atlassian.com/agile/tutorials/epics).
 
